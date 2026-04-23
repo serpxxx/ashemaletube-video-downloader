@@ -4,7 +4,7 @@
   "description": "AShemaleTube Downloader is a browser extension for users who want a cleaner way to save AShemaleTube videos without relying on generic downloader sites, manual stream extraction, or external software. It detects supported video pages in the browser, exposes the available qualities, and exports fini",
   "input": "./INPUT_SCHEMA.json",
   "name": "ashemaletube-video-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "AShemaleTube Downloader",
   "version": "0.0"
 }
