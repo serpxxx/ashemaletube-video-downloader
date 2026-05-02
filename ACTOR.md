@@ -22,6 +22,10 @@ AShemaleTube Downloader is a browser extension for users who want a cleaner way 
 
 ![AShemaleTube Downloader workflow preview](assets/workflow-preview.webp)
 
+## Get it Here
+
+Get it here: https://serp.ly/ashemaletube-downloader
+
 ## Table of Contents
 
 - [Why AShemaleTube Downloader](#why-ashemaletube-downloader)
