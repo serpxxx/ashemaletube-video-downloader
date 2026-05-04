@@ -2,6 +2,12 @@
 
 > Download AShemaleTube videos as MP4 files from the browser with direct quality selection.
 
+## Get it Here
+
+Get it here: https://serp.ly/ashemaletube-video-downloader
+
+![AShemaleTube Downloader](https://raw.githubusercontent.com/serpxxx/ashemaletube-video-downloader/main/assets/workflow-preview.webp)
+
 AShemaleTube Downloader is a browser extension for users who want a cleaner way to save AShemaleTube videos without relying on generic downloader sites, manual stream extraction, or external software. It detects supported video pages in the browser, exposes the available qualities, and exports finished downloads as MP4 for easier playback later.
 
 - Download supported AShemaleTube videos directly from the page
@@ -9,23 +15,6 @@ AShemaleTube Downloader is a browser extension for users who want a cleaner way 
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Links
-
-- :rocket: Get it here: [AShemaleTube Downloader](https://serp.ly/ashemaletube-downloader)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/ashemaletube-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/ashemaletube-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/ashemaletube-downloader/issues)
-
-## Preview
-
-![AShemaleTube Downloader workflow preview](assets/workflow-preview.webp)
-
-## Get it Here
-
-Get it here: https://serp.ly/ashemaletube-downloader
-
 ## Table of Contents
 
 - [Why AShemaleTube Downloader](#why-ashemaletube-downloader)
@@ -164,7 +153,7 @@ No. Everything runs through the browser extension.
 
 ## License
 
-This repository includes an MIT license in [LICENSE.md](LICENSE.md).
+This repository includes an MIT license in [LICENSE.md](https://github.com/serpxxx/ashemaletube-video-downloader/blob/main/LICENSE.md).
 
 ## About AShemaleTube
 
