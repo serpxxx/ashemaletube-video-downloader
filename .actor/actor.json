@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "ashemaletube-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "AShemaleTube Video Downloader | How to Download AShemaleTube Videos",
+  "title": "AShemaleTube Video Downloader | Download AShemaleTube Videos",
   "version": "0.0"
 }
