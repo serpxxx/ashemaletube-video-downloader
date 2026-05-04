@@ -1,4 +1,4 @@
-# AShemaleTube Downloader
+# AShemaleTube Video Downloader | How to Download AShemaleTube Videos
 
 > Download AShemaleTube videos as MP4 files from the browser with direct quality selection.
 
